@@ -1,2 +1,6 @@
 # TicTacToe
-This is a Tic Tac Toe game created by Java.
+
+Creator: Myself
+Date: 08/08/2023
+Language: Java
+IDE: Eclipse
